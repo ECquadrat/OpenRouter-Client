@@ -2,7 +2,7 @@
 
 A fully-featured, modern chat client for the OpenRouter API, built entirely in a single, zero-dependency HTML file.
 
-No build steps. No frameworks. No external CDNs. Just download, open in the browser, and start chatting with hundreds of LLMs available in OpenRouter - https://jimliddle.github.io/OpenRouter-Client/
+No build steps. No frameworks. No external CDNs. Just download, open in the browser, and start chatting with hundreds of LLMs available in OpenRouter - https://ecquadrat.github.io/OpenRouter-Client/
 
 <img width="924" height="512" alt="OpenRouter Chat Client Screenshot" src="https://github.com/user-attachments/assets/6ad61d3a-0a4d-4e0b-b65b-2c55654c949f" />
 
